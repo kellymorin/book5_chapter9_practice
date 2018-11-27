@@ -1,0 +1,227 @@
+{
+  "employees": [
+    {
+      "id": 2,
+      "name": "Jordan Nelson"
+    },
+    {
+      "id": 3,
+      "name": "Zoe LeBlanc"
+    },
+    {
+      "id": 4,
+      "name": "Blaise Roberts"
+    },
+    {
+      "name": "Kelly",
+      "id": 5
+    },
+    {
+      "name": "Testing Tester ",
+      "employedDate": "2018-11-22T17:14:44.636Z",
+      "id": 6
+    },
+    {
+      "name": "Kelly Morin ",
+      "phoneNumber": "615-838-9644",
+      "id": 8
+    },
+    {
+      "name": "Kelly Morin ",
+      "phoneNumber": "615-838-9644",
+      "employedDate": "2018-11-26T17:14:44.636Z",
+      "id": 9
+    },
+    {
+      "name": "Maci Morin ",
+      "phoneNumber": "615-472-1567",
+      "employedDate": "2018-11-22T17:38:15.686Z",
+      "id": 10
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Nashville North",
+      "address": "500 Circle Way"
+    },
+    {
+      "id": 2,
+      "name": "Nashville South",
+      "address": "10101 Binary Court"
+    }
+  ],
+  "animals": [
+    {
+      "id": 3,
+      "name": "Angus"
+    },
+    {
+      "id": 4,
+      "name": "Henley"
+    },
+    {
+      "id": 5,
+      "name": "Derkins"
+    },
+    {
+      "id": 6,
+      "name": "Checkers"
+    },
+    {
+      "name": "Snickers",
+      "breed": "Puppy",
+      "employeeId": 2,
+      "id": 8
+    },
+    {
+      "name": "Pop Tart",
+      "breed": "Puppers",
+      "employeeId": 2,
+      "id": 11
+    },
+    {
+      "name": "Joe",
+      "breed": "Kitten",
+      "employeeId": 2,
+      "id": 16
+    },
+    {
+      "name": "Murph",
+      "breed": "Dog",
+      "id": 22
+    },
+    {
+      "name": "Wonder",
+      "breed": "Dog",
+      "id": 25
+    },
+    {
+      "name": "",
+      "breed": "",
+      "employeeId": 4,
+      "id": 26
+    },
+    {
+      "name": "Testing",
+      "breed": "Test",
+      "employeeId": 3,
+      "id": 27
+    },
+    {
+      "name": "Sneakers",
+      "breed": "Dog",
+      "employeeId": 4,
+      "id": 28
+    }
+  ],
+  "owners": [
+    {
+      "id": 2,
+      "name": "Emma Beaton",
+      "phoneNumber": "222-333-4455"
+    },
+    {
+      "id": 3,
+      "name": "Dani Adkins",
+      "phoneNumber": "333-444-5566"
+    },
+    {
+      "id": 4,
+      "name": "Adam Oswalt",
+      "phoneNumber": "444-555-6677"
+    },
+    {
+      "id": 5,
+      "name": "Fletcher Bangs",
+      "phoneNumber": "555-666-7788"
+    },
+    {
+      "id": 6,
+      "name": "Angela Lee",
+      "phoneNumber": "667-888-9988"
+    },
+    {
+      "name": "Sebastian Civarolo",
+      "phoneNumber": "615-111-1111",
+      "id": 7
+    },
+    {
+      "name": "Kelly Morin",
+      "phoneNumber": "111-222-3344",
+      "id": 9
+    },
+    {
+      "name": "Austin Zoradi",
+      "phoneNumber": "111-222-3344",
+      "id": 11
+    },
+    {
+      "name": "Joe Shepherd ",
+      "phoneNumber": "111-222-3344",
+      "id": 14
+    },
+    {
+      "name": "Steve Coach",
+      "phoneNumber": "Have an emergency? Call Steve!",
+      "id": 15
+    },
+    {
+      "name": "Nolan Little",
+      "phoneNumber": "111-111-2222",
+      "id": 16
+    },
+    {
+      "name": "",
+      "phoneNumber": "111-111-1111",
+      "id": 17
+    },
+    {
+      "name": "Kelly Morin",
+      "phoneNumber": "111-222-3344",
+      "id": 18
+    }
+  ],
+  "animalsOwners": [
+    {
+      "id": 4,
+      "animalId": 3,
+      "ownerId": 4
+    },
+    {
+      "id": 5,
+      "animalId": 4,
+      "ownerId": 5
+    },
+    {
+      "id": 6,
+      "animalId": 5,
+      "ownerId": 6
+    },
+    {
+      "ownerId": 9,
+      "animalId": 11,
+      "id": 9
+    },
+    {
+      "ownerId": 15,
+      "animalId": 22,
+      "id": 14
+    },
+    {
+      "ownerId": 16,
+      "animalId": 25,
+      "id": 16
+    },
+    {
+      "ownerId": 17,
+      "animalId": 27,
+      "id": 17
+    },
+    {
+      "ownerId": 18,
+      "animalId": 28,
+      "id": 18
+    }
+  ]
+}
